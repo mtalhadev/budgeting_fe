@@ -9,7 +9,7 @@ node_modules
 coverage
 
 # production
-.next
+# .next
 .swc
 _static
 out
@@ -17,7 +17,7 @@ dist
 build
 
 # environment variables
-.env
+# .env
 .env.local
 .env.development.local
 .env.test.local
